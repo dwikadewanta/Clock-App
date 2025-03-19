@@ -8,17 +8,23 @@ Clock App is a simple clock mobile application with various time-related feature
 
 ## Preview 📱
 ### Alarm 🔔
+| Adding Alarm | On/Off Alarm |
+|-----------------|-----------------|
 | ![alarm_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm1.gif) | ![alarm_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm2.gif) | 
+
+| Editting Alarm | Alarm Notification |
 |-----------------|-----------------|
 | ![alarm_preview3](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm3.gif) | ![alarm_preview4](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm4.gif) | 
 
 ### Stopwatch ⏳
-| ![stopwatch_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/stopwatch1.gif) | ![stopwatch_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/stopwatch2.gif) |
+| Stopwatch Functional | Splitting Time |
 |-----------------|-----------------|
+| ![stopwatch_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/stopwatch1.gif) | ![stopwatch_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/stopwatch2.gif) |
 
 ### Timer ⏲
-| ![timer_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/timer1.gif) | ![timer_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/timer2.gif) |
+| Timer Functional | Timer Running |
 |-----------------|-----------------|
+| ![timer_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/timer1.gif) | ![timer_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/timer2.gif) |
 
 ## Tested Devices
 📱 **Google Pixel 9** (API 35, Android 15.0 Vanilla Ice Cream)
