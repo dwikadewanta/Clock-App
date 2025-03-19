@@ -6,25 +6,39 @@
 ## Project Description 📜
 Clock App is a simple clock mobile application with various time-related features, such as an alarm, stopwatch, and timer. The user interface (UI) design is inspired by the system clock application on Android MIUI 13.0.1, with slight modifications to the components and available features. Feature additions and UI design changes may still be made in future projects.
 
+## App Features
+1. Alarm
+   - Add alarm
+   - On/Off alarm
+   - Edit Alarm
+   - Alarm Notification
+   - Delete Alarm
+2. Stopwatch
+   - Start Stopwatch
+   - Pause Stopwatch
+   - Resume Stopwatch
+   - Stop Stopwatch
+   - Split Time
+4. Timer
+   - Start Timer
+   - Pause Timer
+   - Resume Timer
+   - Stop Timer
+
 ## Preview 📱
 ### Alarm 🔔
-| Adding Alarm | On/Off Alarm |
-|-----------------|-----------------|
 | ![alarm_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm1.gif) | ![alarm_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm2.gif) | 
-
-| Editting Alarm | Alarm Notification |
 |-----------------|-----------------|
 | ![alarm_preview3](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm3.gif) | ![alarm_preview4](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm4.gif) | 
+| ![alarm_preview5](https://github.com/dwikadewanta/Clock-App/blob/master/assets/alarm5.gif) |
 
 ### Stopwatch ⏳
-| Stopwatch Functional | Splitting Time |
-|-----------------|-----------------|
 | ![stopwatch_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/stopwatch1.gif) | ![stopwatch_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/stopwatch2.gif) |
+|-----------------|-----------------|
 
 ### Timer ⏲
-| Timer Functional | Timer Running |
-|-----------------|-----------------|
 | ![timer_preview1](https://github.com/dwikadewanta/Clock-App/blob/master/assets/timer1.gif) | ![timer_preview2](https://github.com/dwikadewanta/Clock-App/blob/master/assets/timer2.gif) |
+|-----------------|-----------------|
 
 ## Tested Devices
 📱 **Google Pixel 9** (API 35, Android 15.0 Vanilla Ice Cream)
